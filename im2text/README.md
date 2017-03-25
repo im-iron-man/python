@@ -12,8 +12,8 @@ if __name__ == '__main__':
 ## origin image
 
 ![1.png](https://github.com/im-iron-man/python/blob/master/im2text/1.png)
-![2.jpg](https://github.com/im-iron-man/python/blob/master/im2text/2.png)
-![3.jpg](https://github.com/im-iron-man/python/blob/master/im2text/3.png)
+![2.jpg](https://github.com/im-iron-man/python/blob/master/im2text/2.jpg)
+![3.jpg](https://github.com/im-iron-man/python/blob/master/im2text/3.jpg)
 
 ## result
 
