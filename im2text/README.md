@@ -11,18 +11,18 @@ if __name__ == '__main__':
 
 ## origin image
 
-![1.png](https://github.com/For-Human/im2text/blob/master/1.png)
-![2.jpg](https://github.com/For-Human/im2text/blob/master/2.jpg)
-![3.jpg](https://github.com/For-Human/im2text/blob/master/3.jpg)
+![1.png](https://github.com/im-iron-man/python/blob/master/im2text/1.png)
+![2.jpg](https://github.com/im-iron-man/python/blob/master/im2text/2.png)
+![3.jpg](https://github.com/im-iron-man/python/blob/master/im2text/3.png)
 
 ## result
 
-- [a.txt](https://github.com/For-Human/im2text/blob/master/a.txt)
-- [b.txt](https://github.com/For-Human/im2text/blob/master/b.txt)
-- [c.txt](https://github.com/For-Human/im2text/blob/master/c.txt)
+- [a.txt](https://github.com/im-iron-man/python/blob/master/im2text/a.txt)
+- [b.txt](https://github.com/im-iron-man/python/blob/master/im2text/b.txt)
+- [c.txt](https://github.com/im-iron-man/python/blob/master/im2text/c.txt)
 
 ## cmd result
 
-![x.png](https://github.com/For-Human/im2text/blob/master/x.png)
-![y.png](https://github.com/For-Human/im2text/blob/master/y.png)
-![z.png](https://github.com/For-Human/im2text/blob/master/z.png)
+![x.png](https://github.com/im-iron-man/python/blob/master/im2text/x.png)
+![y.png](https://github.com/im-iron-man/python/blob/master/im2text/y.png)
+![z.png](https://github.com/im-iron-man/python/blob/master/im2text/z.png)
